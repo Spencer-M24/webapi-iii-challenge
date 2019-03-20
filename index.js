@@ -17,7 +17,7 @@ server.use("/api/posts", postsRouter);
 
 server.use("/api/users", usersRouter);
 
-server.use("/", (req, res) => res.send("API up and running!"));
+server.use("/", (req, res) => res.send("API is Activaited and Ready to GO!"));
 
 
 
