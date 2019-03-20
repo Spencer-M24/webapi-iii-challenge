@@ -3,7 +3,7 @@
 In this challenge, you will **design** and build an API that satisfies the requirements listed under the `Minimum Viable Product` section.
 
 ## Instructions
-
+         
 **Read these instructions carefully. Understand exactly what is expected before starting.**
 
 You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your PM and Instructor.
